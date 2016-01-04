@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LOLTowerDefenseTestEins</string>
+
+    <string name="play">Play</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_level_selection">LevelSelectionActivity</string>
+</resources>
